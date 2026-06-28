@@ -1,0 +1,12 @@
+{
+  "employee_count": 6,
+  "average_salary": 73333.33,
+  "highest_salary": 90000,
+  "lowest_salary": 58000,
+  "department_average": {
+    "Engineering": 88000.0,
+    "HR": 58000.0,
+    "Marketing": 74000.0,
+    "Sales": 66000.0
+  }
+}

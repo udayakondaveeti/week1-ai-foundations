@@ -1,0 +1,4 @@
+Employee Count: 6
+Average Salary: 73333.33
+Highest Salary: 90000
+Lowest Salary: 58000
